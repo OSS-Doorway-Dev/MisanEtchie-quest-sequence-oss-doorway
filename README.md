@@ -8,15 +8,17 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1752699052304.svg?)
+  ![User Draft Stats](/userCards/draft-1752699076457.svg?)
 
 ⚙️ Current Quest: 
-  - Q4 - Advanced GitHub Concepts 🧠
-    - T1 - Advanced GitHub Workflow MCQ [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanEtchie-quest-sequence-oss-doorway/issues/2)]
+  - Q5 - Repository Analytics 📊
+    - T1 - Count Open Issues [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanEtchie-quest-sequence-oss-doorway/issues/3)]
 
 ✅ Completed Quests: 
   - Q0 - Configuring your environment
     - ~T1 - Environment Preferences~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanEtchie-quest-sequence-oss-doorway/issues/1)]
+  - Q4 - Advanced GitHub Concepts 🧠
+    - ~T1 - Advanced GitHub Workflow MCQ~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanEtchie-quest-sequence-oss-doorway/issues/2)]
 
 Quests Map:
- ![Quest Map](https://raw.githubusercontent.com/caiton1/OSS-Doorway/main/map/Q4T1.png)
+ ![Quest Map](https://raw.githubusercontent.com/caiton1/OSS-Doorway/main/map/Q5T1.png)
